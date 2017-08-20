@@ -1,0 +1,34 @@
+{
+  "name": "ottaz-array",
+  "description": "Generate a sequential array",
+  "version": "0.1.0",
+  "homepage": "",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3"
+  },
+  "author": "Vinoth Dinakar <vinoth.dinakar@gmail.com>",
+  "keywords": [
+    "iota",
+    "ottaz",
+    "sequence",
+    "array",
+    "alphabet"
+  ],
+  "main": "./ottaz.js",
+  "maintainers": [
+    {
+      "name": "Vinoth Dhinakaran",
+      "email": "vinoth.dinakar@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "node ./ottaz.js"
+  }
+}
